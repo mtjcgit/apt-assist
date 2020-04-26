@@ -1,0 +1,10 @@
+[APTASSIST]
+Name=Current
+Version=1.0
+Icon=tux.png
+Type=binary
+OS=current
+Dists="current"
+Sections="main, multiverse, restricted, universe"
+Architecture="amd64, i386"
+RepoDir=/media/silo/ubuntu

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Apt Assist
+Comment=Apt Assistant
+GenericName=apt-assist
+Exec=apt-assist
+Icon=apt-assist
+Type=Application
+X-KDE-StartupNotify=false
+Categories=Qt;Utility;
+

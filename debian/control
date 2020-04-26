@@ -1,0 +1,13 @@
+Source: apt-assist
+Section: utils
+Priority: optional
+Maintainer: Mohammad Taqi Jafari <mchemtux@gmail.com>
+Build-Depends: debhelper (>= 5), cdbs, qt4-qmake, libqt4-dev, libgdbm-dev
+Standards-Version: 3.8.1
+
+Package: apt-assist
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Qt4-based GUI for local Debian packages archive preparation
+ apt-assist is a free-software graphical user interface that works with 
+ dpkg core to handle the local Debian packages indexing.

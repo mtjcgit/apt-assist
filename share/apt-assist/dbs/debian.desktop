@@ -1,0 +1,9 @@
+[APTASSIST]
+Name=Debian
+Version=1.0
+Icon=debian.png
+Type=binary
+OS=debian
+Dists="experimental, unstable, testing"
+Sections="contrib, main, non-free"
+Architecture="amd64, i386"

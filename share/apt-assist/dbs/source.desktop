@@ -1,0 +1,9 @@
+[APTASSIST]
+Name=Source
+Version=1.0
+Icon=source.png
+Type=source
+OS=current
+Dists="current"
+Sections="main, multiverse, restricted, universe"
+RepoDir=/media/source/ubuntu
