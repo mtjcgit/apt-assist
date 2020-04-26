@@ -4,6 +4,6 @@ Version=1.0
 Icon=ubuntu.png
 Type=binary
 OS=ubuntu
-Dists="bionic, dapper, hardy, jaunty, karmic, lucid, maverick, natty, precise, trusty"
+Dists="dapper, hardy, jaunty, karmic, lucid, maverick, natty, precise, trusty, xenial, bionic, disco, eoan, focal"
 Sections="main, multiverse, restricted, universe"
 Architecture="alpha, amd64, arm, armeb, armhf, armel, avr32, hppa, i386, ia64, m32r, m68k, mips, mipsel, powerpc, powerpcspe, ppc64, s390, s390x, sh3, sh3eb, sh4, sh4eb, sparc, sparc64, all"
